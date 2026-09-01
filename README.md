@@ -1,3 +1,6 @@
+Sou Cibele Dinorah
+Aluna da Pos Tech em Data Analytics da FIAP
+
 Este repositório consolida o desenvolvimento completo do Tech Challenge, projeto integrado da Fase 1 da Pós Tech em Data Analytics. O trabalho teve como objetivo estruturar, analisar e interpretar os dados transacionais do Brazilian E-commerce Public Dataset by Olist, transformando-os em um storytelling executivo orientado à tomada de decisão.
 
 A análise foi conduzida com foco em performance comercial, comportamento do consumidor, eficiência operacional e oportunidades de crescimento, oferecendo uma visão estratégica para investidores, acionistas e lideranças de negócio.
